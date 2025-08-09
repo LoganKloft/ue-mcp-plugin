@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ModelContextProtocol",
+	"Description": "Host a server that can interact with the Unreal Editor, performing actions on behalf of an MCP server or reporting editor data.",
+	"Category": "AI",
+	"CreatedBy": "Logan Kloft",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModelContextProtocol",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
